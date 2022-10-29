@@ -5,12 +5,7 @@ import "firebase/compat/firestore";
 import { initializeApp } from "firebase/compat/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCQ8_G_9wh0aYMOdlzD9wILDv1wBlnasFc",
-  authDomain: "reactproject-fc824.firebaseapp.com",
-  projectId: "reactproject-fc824",
-  storageBucket: "reactproject-fc824.appspot.com",
-  messagingSenderId: "960868339581",
-  appId: "1:960868339581:web:13cfbcd74383b1c03f4614"
+  
 };
 
 let app;
